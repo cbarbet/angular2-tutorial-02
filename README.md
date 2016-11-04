@@ -4,3 +4,9 @@ Source : <a href="https://angular.io/docs/ts/latest/tutorial/" target="_blank">T
 <h2>How to install and launch on my computer ?</h2>
 
 Prerequise : Install <a href="https://nodejs.org" target="_blank">node.js</a>
+
+1. Clone projet to your computer
+2. Install node modules into the revelant directory :
+<code>npm install</code>
+3. Launch application :
+<code>npm start</code>
