@@ -1,5 +1,5 @@
 # angular2-tutorial-02
-Source : <a href="https://angular.io/docs/ts/latest/quickstart.html" target="_blank">Tutorial</a> from Angular.io website
+Source : <a href="https://angular.io/docs/ts/latest/tutorial/" target="_blank">Tutorial</a> from Angular.io website
 
 <h3>How to install and launch it on my computer ?</h3>
 
