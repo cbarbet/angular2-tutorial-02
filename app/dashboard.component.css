@@ -47,7 +47,9 @@ h4 {
 }
 @media (max-width: 600px) {
 	.module {
+		padding: 4px;
 	  font-size: 10px;
+		min-height: 55px;
 	  max-height: 75px; }
 }
 @media (max-width: 1024px) {
